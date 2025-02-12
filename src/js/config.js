@@ -1,7 +1,5 @@
-import { API_KEY } from './apikey.js';
-
 export const API_URL = 'https://forkify-api.jonas.io/api/v2/recipes/';
 export const TIMEOUT_SEC = 10;
 export const RES_PER_PAGE = 10;
-export const KEY = `${API_KEY}`;
+export const KEY = '1664590f-8895-412f-8279-4d3fc30f71cc';
 export const MODAL_CLOSE_SEC = 2.5;
